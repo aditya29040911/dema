@@ -396,6 +396,8 @@ PF_returns.head()
 
 
 
+Total Equity Ratio = Total Equity / Total Assets
+
 
 
 
